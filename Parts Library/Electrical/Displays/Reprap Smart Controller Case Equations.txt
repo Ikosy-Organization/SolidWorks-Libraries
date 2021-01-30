@@ -1,0 +1,31 @@
+﻿"Controller Clearance"= 2mm
+
+"Shell Thickness"= 2.5
+
+"Screen Clearance"= 1mm
+
+"PCB Hole Spacing X"= 88mm
+
+"PCB Hole Spacing Y"= 65mm
+
+"Controller Size X"= 93mm
+
+"Controller Size Y"= 87mm
+
+"Outside Fillet Radius"= 2mm
+
+"Screen Height"= 51.2mm
+
+"Screen Width"= 78.6mm
+
+"SD Card Position"= 22.5mm + 27/2.0mm + "Shell Thickness" + "Controller Clearance"
+
+"SD Card Width"= 31mm
+
+"Top Mounting Hole Position"= 2.5mm
+
+"Top Connector Y Position"= 0.5 * "Controller Size Y" - "Top Mounting Hole Position" - 6
+
+"Standoff Height"= 9 - "Shell Thickness"
+
+"Slip Fit Clearance"= 0.15mm
