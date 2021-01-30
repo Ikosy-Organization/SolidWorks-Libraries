@@ -29,3 +29,5 @@
 "Standoff Height"= 9 - "Shell Thickness"
 
 "Slip Fit Clearance"= 0.15mm
+
+"Stop Button Entension Size"= 44mm
