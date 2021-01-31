@@ -1,6 +1,6 @@
 ﻿"Controller Clearance"= 2mm
 
-"Shell Thickness"= 2.5
+"Shell Thickness"= 2.25mm
 
 "Screen Clearance"= 1mm
 
@@ -28,6 +28,6 @@
 
 "Standoff Height"= 9 - "Shell Thickness"
 
-"Slip Fit Clearance"= 0.15mm
+"Slip Fit Clearance"= 0.2mm
 
 "Stop Button Entension Size"= 44mm
