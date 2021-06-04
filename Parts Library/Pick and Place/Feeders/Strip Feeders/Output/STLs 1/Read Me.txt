@@ -1,0 +1,3 @@
+These files have been generated with the following dimensions altered to allow for 3D printing:
+Sprocket diameter: 0.70 mm
+Wall thickness: 0.85 mm
